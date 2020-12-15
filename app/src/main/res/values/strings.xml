@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">TallerGrupal</string>
+    <string name="msgError">Datos Ingresados Incorrectos</string>
+    <string name="msgExitoso">Felicidades</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="hitUsuario">Ingrese Usuario.</string>
+    <string name="hitContrasenia">Ingrese Contraseña</string>
+</resources>
