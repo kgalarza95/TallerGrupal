@@ -1,4 +1,2 @@
-include ':app:mylogin'
-include ':app:pruebacomponentes'
 include ':app'
 rootProject.name = "TallerGrupal"
